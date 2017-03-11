@@ -1,6 +1,6 @@
 public class Bottles{
 	public static void main(String[] args){
-		int x=99;
+		int x=98;
 		String word="bottles";
 		while(x>0){
 			if(x==1)
